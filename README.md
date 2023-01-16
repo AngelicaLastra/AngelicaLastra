@@ -4,9 +4,7 @@ I am an enthusiastic and inquisitive Analytics Engineer (formerly an Architect i
 
 
 ### dbt Labs
-_Analytics Engineer Apprentice_
-
-I became an Analytics Engineer Apprentice at _dbt Labs_ in August 2022 through the _Foundry Program_. After 6 months of intensive studying and working on client projects as part of their _Professional Services_ Team, I was able to develop a wide range of skills and knowledge that prepared me to enter the data world as an Analytics Engineer. Though some of the work was privately developed for clients, here is a list of some of the public work I collaborated on:
+Though some of the work was privately developed for clients, here is a list of some of the public work I collaborated on:
 
 - [packages/codegen](https://github.com/dbt-labs/dbt-codegen/pull/85): Contributed to dbt **codegen’s** _generate_model_yaml_ macro by creating jinja statements and for loops that allowed the package to generate yaml files for multiple models at once.
 - [packages/dbt_project_evaluator](https://github.com/dbt-labs/dbt-project-evaluator/pull/237): Enhanced compatibility of the _dbt_project_evaluator_ package with Windows OS by creating a macro with over 25 lines of code that detects a computer’s operating system to provide appropriate model directory recommendations. 
