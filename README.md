@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am an enthusiastic and inquisitive Analytics Engineer (formerly an Architect in training 🏠) — I have the most fun when figuring out solutions to complex challenges, writing efficient code, and driving decision-making through stories hidden in data. Checkout my [LinkedIn](https://www.linkedin.com/in/angelica-lastra/) for more information!
+I am an enthusiastic and inquisitive Data Engineer (formerly an Architect in training 🏠) — I have the most fun when figuring out solutions to complex challenges, writing efficient code, and driving decision-making through stories hidden in data. Checkout my [LinkedIn](https://www.linkedin.com/in/angelica-lastra/) for more information!
 
 
 ### dbt Labs
